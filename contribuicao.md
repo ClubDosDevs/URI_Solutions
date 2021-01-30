@@ -6,5 +6,6 @@ Mantenha as descrições curtas e simples, mas descritivas.
 - Comece a descrição com maiúscula. Ex : Solution in C++.
 - Verifique a ortografia e a gramática.
 Certifique-se de que seu editor de texto esteja configurado para remover espaços em branco à direita.
+- Outras informações : https://clubdosdevs.github.io/URI_Solutions/
 
 Obrigado por suas sugestões!
