@@ -45,7 +45,6 @@ def inverso(list_test):
 		invertido = hash[::-1]
 		#adiciona o novo segredo em uma lista
 		inverso.append(invertido)
-		#invertido.clear()
 	return inverso
 
 #terceira parte - modifica a partir da metade da hash
