@@ -96,6 +96,7 @@ quant_ent = int(input('Digite quantos testes deseja fazer: '))
 entrada_inicial = []
 primeira_mod=[]
 segunda_mod=[]
+terceira_mod=[]
 
 #chama função para receber o segredo o usuario
 entrada_inicial = recebe_segredo(quant_ent)
