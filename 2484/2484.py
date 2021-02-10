@@ -24,6 +24,7 @@ def monta_triangulo(palavra):
 				print('{:^20}'.format(aux))
 				#lista recebe a nova palavra sem o ultimo caractere
 				palavra_aux=list(aux)
+				
 			#quando a lista estiver vazia esse teste acaba
 			else:
 				break
