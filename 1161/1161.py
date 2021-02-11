@@ -1,8 +1,6 @@
 def fatorial(n):
-	if n==0:
+	if n==0 or n == 1:
 		n=1
-		return n
-	elif n==1:
 		return n
 	return fatorial(n-1) * n
 
